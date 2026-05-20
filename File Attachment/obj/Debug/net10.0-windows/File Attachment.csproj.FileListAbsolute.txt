@@ -1,0 +1,18 @@
+C:\Users\Admin\source\repos\File Attachment\File Attachment\obj\Debug\net10.0-windows\File_Attachment.Form1.resources
+C:\Users\Admin\source\repos\File Attachment\File Attachment\obj\Debug\net10.0-windows\File Attachment.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\File Attachment\File Attachment\bin\Debug\net10.0-windows\File Attachment.exe
+C:\Users\Admin\source\repos\File Attachment\File Attachment\bin\Debug\net10.0-windows\File Attachment.deps.json
+C:\Users\Admin\source\repos\File Attachment\File Attachment\bin\Debug\net10.0-windows\File Attachment.runtimeconfig.json
+C:\Users\Admin\source\repos\File Attachment\File Attachment\bin\Debug\net10.0-windows\File Attachment.dll
+C:\Users\Admin\source\repos\File Attachment\File Attachment\bin\Debug\net10.0-windows\File Attachment.pdb
+C:\Users\Admin\source\repos\File Attachment\File Attachment\obj\Debug\net10.0-windows\File_Attachment.Properties.Resources.resources
+C:\Users\Admin\source\repos\File Attachment\File Attachment\obj\Debug\net10.0-windows\File Attachment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\File Attachment\File Attachment\obj\Debug\net10.0-windows\File Attachment.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\File Attachment\File Attachment\obj\Debug\net10.0-windows\File Attachment.AssemblyInfo.cs
+C:\Users\Admin\source\repos\File Attachment\File Attachment\obj\Debug\net10.0-windows\File Attachment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\File Attachment\File Attachment\obj\Debug\net10.0-windows\File Attachment.dll
+C:\Users\Admin\source\repos\File Attachment\File Attachment\obj\Debug\net10.0-windows\refint\File Attachment.dll
+C:\Users\Admin\source\repos\File Attachment\File Attachment\obj\Debug\net10.0-windows\File Attachment.pdb
+C:\Users\Admin\source\repos\File Attachment\File Attachment\obj\Debug\net10.0-windows\File Attachment.genruntimeconfig.cache
+C:\Users\Admin\source\repos\File Attachment\File Attachment\obj\Debug\net10.0-windows\ref\File Attachment.dll
+C:\Users\Admin\source\repos\File Attachment\File Attachment\obj\Debug\net10.0-windows\File_Attachment.addAttachment.resources
